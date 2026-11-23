@@ -13,3 +13,8 @@
     X-Frame-Options = "SAMEORIGIN"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "same-origin"
+
+[[redirects]]
+  from = "/app.html"
+  to = "/"
+  status = 301
